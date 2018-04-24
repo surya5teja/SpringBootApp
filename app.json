@@ -1,5 +1,5 @@
 {
-  "name": "heroku-java-maven-prj",
-  "description": "heroku maven application",
-  "repository": "https://github.com/surya5teja/Java_Maven_Heroku.git"
+  "name": "SpringBootApp",
+  "description": "SpringBootApp maven application",
+  "repository": "https://github.com/surya5teja/SpringBootApp.git"
 }
