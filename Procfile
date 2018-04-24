@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/maventest-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/SpringBootApp-0.0.1.jar
