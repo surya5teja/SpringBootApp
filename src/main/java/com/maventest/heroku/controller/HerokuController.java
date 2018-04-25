@@ -10,6 +10,6 @@ public class HerokuController {
 
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String testMethod() {
-		return "surya tej";
+		return "surya teja";
 	}
 }
